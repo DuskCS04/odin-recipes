@@ -1,1 +1,2 @@
 # odin-recipes
+I've learned the base line introduction to html, git, and github and how to make use of these tools for my first project which is odin recipes. I've done html, css, and a small bit of js before but this will be a persistent time for me to learn as much as I can about web dev. Once I finish the project I will be well suited enough to know how to generally type in html and get my way around making a introductory web app
