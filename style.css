@@ -1,0 +1,57 @@
+* {
+    font-family: "Monaco", "Courier New", "Lucida Console", monospace;
+}
+body {
+    background-color: rgb(238, 224, 216);
+}
+#main-title {
+    font-weight: 800;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(177, 84, 41);
+    background-color: rgb(211, 183, 166);
+}
+
+.recipe {
+    font-weight: 500;
+    font-size: 50px;
+    text-align: left;
+    color: rgb(177, 84, 41);
+}
+
+#title {
+    color: rgb(177, 84, 41);
+    font-size: 80px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.description {
+    color: rgb(54, 39, 35);
+    background-color: rgba(177, 84, 41, 0.479);
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 35%;
+}
+.header {
+    color:rgb(54, 39, 35);
+    background-color: rgba(177, 84, 41, 0.75);
+    font-size: 40px;
+    text-align: center;
+    font-weight: 500;
+}
+.list {
+    color:rgb(54, 39, 35);
+    background-color: rgba(177, 84, 41, 0.479);
+    text-align: left;
+    font-weight: 500;
+    
+}
